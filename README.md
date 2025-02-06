@@ -1,4 +1,9 @@
-# React + Vite
+# calculations
+Hey! I am Aarya. I have initiated to establish a very resourceful app that will help make calculations easier.
+
+---
+
+## React + Vite Setup
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
